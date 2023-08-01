@@ -5,3 +5,5 @@
 * HTML
 * CSS
 * Применялся подход БЭМ
+## Ссылка
+https://viktoriya-eismont.github.io/how-to-learn/
